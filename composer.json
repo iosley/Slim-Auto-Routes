@@ -1,7 +1,7 @@
 {
     "name": "iosley/slim-auto-routes",
     "type": "library",
-    "version": "0.1.0",
+    "version": "1.0.0",
     "time": "2015-10-21",
     "description": "The middleware for auto load routes to Slim Framework",
     "keywords": ["router","route","routes","middleware","slim","autoload"],
@@ -15,7 +15,7 @@
             "role": "Developer"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "require": {
         "php": ">=5.4.0"
     },
