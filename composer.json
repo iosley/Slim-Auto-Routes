@@ -23,8 +23,8 @@
         "slim/slim": "2.*"
     },
     "autoload": {
-        "psr-4": {
-            "\\Iosley\\Slim\\Provider\\": "src/provider/"
+        "psr-0": {
+            "\\Iosley\\Slim\\Provider": "src/provider/"
         }
     }
 
