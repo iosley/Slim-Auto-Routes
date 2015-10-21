@@ -5,7 +5,7 @@
  * @version 0.1.0
  */
 
-namespace \Iosley\Slim\Provider;
+namespace Iosley\Slim\Provider;
 
 class AutoRoutesMiddleware extends \Slim\Middleware
 {
