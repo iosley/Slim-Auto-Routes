@@ -24,7 +24,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Iosley\\Slim\\Provider\\": "src/provider/"
+            "Iosley\\Slim\\Provider\\": "src/Provider/"
         }
     }
 
