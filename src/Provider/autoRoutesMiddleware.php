@@ -2,7 +2,6 @@
 /**
  * Middleware for auto load routes to Slim Framework
  * @author Iosley Carlos <iosley@outlook.com>
- * @version 1.0.0
  */
 
 namespace Iosley\Slim\Provider;
